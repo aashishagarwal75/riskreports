@@ -1,2 +1,2 @@
-This is the base report having version 1
+This is the base report having version 2
 generic report to be used as base for client specific reports
